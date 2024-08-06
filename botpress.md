@@ -39,7 +39,6 @@ Keywords: chatbot, AI, conversational AI, generative AI, ChatGPT, LLM, open-sour
 
 - **Location:** HQ is Quebec, Canada
 - **Founded:** 2016
-- 
 
 ## Pricing
 
