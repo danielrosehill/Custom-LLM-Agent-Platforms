@@ -11,7 +11,6 @@ A definition for a `custom GPT` solicited from ChatGPT that I like is:
 "Custom GPT platforms" is not a perfect descriptor but rather referes to a growing array of tools supporting two interrelated use-cases:
 
 - 1: **Creating highly-specialised GPTs for specific applications**. Typically, these are developed by businesses although there is nothing stopping private individuals from creating highly tailored GPTs to support their personal uses.
-- 
 - 2: **Creating "fleets" of custom GPTs with the intention of covering a wide variety of use-cases with multiple GPTs or "chaining" together custom GPTs as a form of process automation** (e.g. GPT 1 parses output to GPT 2 which sends a final output to the business user).
 
 ## Synonyms And Closely Related Terms
@@ -26,14 +25,12 @@ For that reason, and for the purpose of this repository, the following terms are
 -  Custom AI bots
 -  AI workforces
 -  AI fleets
--  
+  
 Etc, etc. 
 
 ## Repository Author
 
 Daniel Rosehill
 public at danielrosehill dot com
-
-
 
 
